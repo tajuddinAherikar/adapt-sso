@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "adapt-devtools-webhooks": {
+      "teamsConnector": "https://laerdal.webhook.office.com/webhookb2/13fb0e27-32c6-448c-af68-79dd4512c194@b223ef84-eb37-44e0-8ef9-6b666a35bdce/IncomingWebhook/443de0645e57439aa57ffa5b7309eeb3/011da874-bc51-4a88-a24f-c5bea543d2dc/V26hChex82AxH6rfmiQ3BL8EnmKWDHuUu5zBYVVhmKlj81"
+    }
+  }
+}
